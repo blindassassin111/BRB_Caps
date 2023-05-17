@@ -8,3 +8,5 @@ Worked great with the JLCPCB black resin, but the 12U and 15U caps are very hit 
 I offer no warranty for issues you run into with the files and you take all risk having them made. They are offered as-is, just because I had a good result for some and bad result for others doesn't reflect your results/experience with having them printed.
 
 BRB means "Beyond Reason Bars" and was a name suggested by water (texas discord user)
+
+![60_WKL](https://i.imgur.com/P1GsJ6z.jpg)
