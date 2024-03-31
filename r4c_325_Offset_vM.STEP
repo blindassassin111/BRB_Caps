@@ -2,7 +2,7 @@ ISO-10303-21;
 HEADER;
 FILE_DESCRIPTION (( 'STEP AP214' ),
     '1' );
-FILE_NAME ('r4c_3.25_Offset_vM.STEP',
+FILE_NAME ('r4c_325_Offset_vM.STEP',
     '2023-01-18T20:06:01',
     ( '' ),
     ( '' ),
